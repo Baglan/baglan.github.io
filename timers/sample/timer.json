@@ -1,0 +1,55 @@
+{
+  "title": "Sample timer",
+  "titles": {
+    "en": "Sample timer",
+    "ru": "Пример таймера"
+  },
+  "background": "bg.png",
+  "background-color": "#000000",
+  "steps": [
+    {
+      "title": "First step",
+      "titles": {
+        "en": "First step",
+        "ru": "Первый шаг"
+      },
+      "description": "Description of the first step",
+      "descriptions": {
+        "en": "Description of the first step",
+        "ru": "Описание первого шага"
+      },
+      "background": "1.png",
+      "background-color": "#FF0000",
+      "timer": 20
+    },
+    {
+      "title": "Second step",
+      "titles": {
+        "en": "Second step",
+        "ru": "Второй шаг"
+      },
+      "description": "Description of the second step",
+      "descriptions": {
+        "en": "Description of the second step",
+        "ru": "Описание второго шага"
+      },
+      "background": "2.png",
+      "background-color": "#00FF00"
+    },
+    {
+      "title": "Third step",
+      "titles": {
+        "en": "Third step",
+        "ru": "Третий шаг"
+      },
+      "description": "Description of the third step",
+      "descriptions": {
+        "en": "Description of the second step",
+        "ru": "Описание третьего шага"
+      },
+      "background": "3.png",
+      "background-color": "#0000FF",
+      "timer": 300
+    }
+  ]
+}
